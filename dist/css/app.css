@@ -7752,7 +7752,7 @@ header.index {
 .story__button_copy-link {
 	min-width: 120px;
 	height: 50px;
-	background-image: url(/images/icon/copy.svg);
+	background-image: url(../images/icon/copy.svg);
 	background-position: center;
 	background-repeat: no-repeat;
 }
