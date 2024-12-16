@@ -31,20 +31,20 @@ body {
 	overflow-y: hidden;
 	padding-right: 15px;
 }
-/*.background {*/
+/*.kground {*/
 
-/*    background-image: url("../images/background.svg");*/
+/*    kground-image: url("../images/kground.svg");*/
 
 /*}*/
 
 body {
-	background-image: url("/dist/images/background.webp");
+	background-image: url("./dist/images/background.webp");
 	background-repeat: repeat-y;
 	background-size: 100% auto;
 }
 @media (max-width: 480px) {
 	body {
-		background-image: url("/dist/images/background-xs.webp");
+		background-image: url("./dist/images/background-xs.webp");
 	}
 }
 .background.fix {
